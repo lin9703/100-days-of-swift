@@ -10,3 +10,4 @@
 | <center>[Day 2](https://www.hackingwithswift.com/100/2)</center> | arrays, dictionaries, sets, and enums | 2022/05/02 완료 🛠 |
 | <center>[Day 3](https://www.hackingwithswift.com/100/3)</center> | operators and conditions | 2022/05/04 완료 🛠 |
 | <center>[Day 4](https://www.hackingwithswift.com/100/4)</center> | loops, loops, and more loops | 2022/05/07 완료 🛠 |
+| <center>[Day 5](https://www.hackingwithswift.com/100/5)</center> | functions, parameters, and errors | 2022/05/18 완료 🛠 |
